@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio de Projeto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha Página Web</h1>
+    
+    <p><strong>Introdução:</strong> HTML (HyperText Markup Language) é uma linguagem fundamental para a construção da web.</p>
+    
+    <h2>Introdução</h2>
+    <ul>
+        <li><a href="#section1">Início e Criação (1991-1995)</a></li>
+        <li><a href="#section2">Evolução e Padrões (1997-2008)</a></li>
+    </ul>
+    
+    <h3 id="section1">Início e Criação</h3>
+    <p><mark>1991:</mark> O <small>Cientista </small>Lee.</p>
+    <p><i>Tim</i> <u>Berners-Lee,</u> um cientista da computação do CERN (Organização Europeia para a Pesquisa Nuclear), criou o HTML. O HTML foi desenvolvido para permitir a criação e a visualização de documentos na web. A ideia original era construir uma rede de documentos interligados..</p>
+    
+    <h4>1995:</h4>
+    <p> HTML 2.0 <sub>Foi formalizado</sub> pelo <sup> IETF (Internet Engineering Task Force).</sup>.</p>
+    
+    <h5>Exemplo de <del>texto deletado</del> e <abbr title="Hypertext Markup Language">HTML</abbr></h5>
+    
+    <p><strong>Notas:</strong> Esta versão consolidou as práticas emergentes da época e definiu um conjunto básico de tags para a criação de documentos web.</p>
+    
+    <h6>Evolução e Padrões(1997-2008)</h6>
+    <p>1997: <font color="red">HTML 3.2 foi lançado pelo W3C (World Wide Web Consortium), introduzindo novas funcionalidades como tabelas e applets.</font> </p>
+    </p>1999:  HTML 4.0 trouxe grandes mudanças, incluindo melhorias na semântica, suporte a CSS (Cascading Style Sheets), e um enfoque em acessibilidade e separação de conteúdo e apresentação. Em 1999, o W3C publicou a versão 4.01, que era uma revisão menor da 4.0.
+    </p>2004: O HTML 4.01 foi o padrão até o início dos anos 2000, quando começaram a surgir novas necessidades na web.
+
+
+    <blockquote>
+        <p> HTML5 e a Web Moderna (2008-presente)</p>
+    </p> 2008: O HTML5 começou a ser desenvolvido como uma reescrita completa do HTML. O objetivo era criar uma linguagem que pudesse suportar as necessidades modernas da web, incluindo vídeo, áudio, e gráficos sem a necessidade de plugins externos.</p>
+    </p> 2014: HTML5 foi oficialmente publicado como uma recomendação pelo W3C. Esta versão introduziu novas tags e APIs, como <p><mark> article, section, nav, header, footer, video, e canvas,</mark> que ajudaram a tornar o desenvolvimento web mais rico e interativo.<blockquote>
+</p> Presente: HTML5 continua a evoluir, com adições e melhorias contínuas. As especificações são agora mantidas e desenvolvidas pelo W3C e pelo WHATWG (Web Hypertext Application Technology Working Group).</p>
+
+
+    </blockquote>
+    
+    <hr>
+    
+    <p>Para conhecer a história completa sobre HTML clique <a href="https://pt.wikipedia.org/wiki/HTML">AQUI</a> para um site externo. </p> <h4>wikipedia.org</h4>
+    </p>
+
+    <ol>
+        <li>Início e Criação (1991-1995)
+</li>
+        <li>Evolução e Padrões (1997-2008)</li>
+    </ol>
+       
+    <p>Voltar <a href="#section1">seções específicas</a> desta página.</p>
+</body>
+</html>
