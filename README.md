@@ -1,3 +1,10 @@
+<h1>
+    <a  href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> CURSO Formação HTML Web Developer, da DIO.</span>
+</h1>
+
+
 #  Módulo 01 - Primeiros passos com HTML 
 ### A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então.
 
